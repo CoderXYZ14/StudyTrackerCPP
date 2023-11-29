@@ -1,3 +1,7 @@
+/*
+ * Author: Shahwaiz Islam
+ * Copyright © 2023 https://github.com/CoderXYZ14
+ */
 #include <iostream>
 #include <fstream>
 #include <ctime>
